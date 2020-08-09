@@ -8,6 +8,18 @@
 
 <br />
 
+<<<<<<< HEAD
+=======
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [AOJ ALDS1_7_B](https://chucs.github.io/ALDS1-7-B-Binary-Tree/)
+- [AOJ ALDS1_7_A](https://chucs.github.io/ALDS1-7-A-Rooted-Trees/)
+- [AOJ ALDS1_6_C](https://chucs.github.io/ALDS1-6-C-Quick-Sort/)
+- [AOJ ALDS1_6_B](https://chucs.github.io/ALDS1-6-B-Partition/)
+- [AOJ ALDS1_6_A](https://chucs.github.io/ALDS1-6-A-Counting-Sort/)
+<!-- BLOG-POST-LIST:END -->
+
+>>>>>>> master
 ---
 ### 🚀 Categories Online Judge
 - [Codeforces](https://chucs.github.io/categories/Codeforces/)
