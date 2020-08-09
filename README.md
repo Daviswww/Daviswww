@@ -6,8 +6,6 @@
 - 🍺 Goals: Contribute more to Open Source projects
 - 🗿 Fun fact: I love to travel and exercise 
 
-<br />
-
 ---
 
 ### 🚀 Categories Online Judge
@@ -15,7 +13,6 @@
 - [AIZU](https://chucs.github.io/categories/AOJ/)
 - [UVA](https://chucs.github.io/categories/UVA/)
 - [For my solution on Online Judge. Maybe it's not best solution.](https://github.com/Daviswww/Submissions-by-UVa-etc)
-
 ---
 
 ### 📕 Latest Blog posts
