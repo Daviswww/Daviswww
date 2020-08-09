@@ -8,19 +8,8 @@
 
 <br />
 
-<<<<<<< HEAD
-=======
-### 📕 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [AOJ ALDS1_7_B](https://chucs.github.io/ALDS1-7-B-Binary-Tree/)
-- [AOJ ALDS1_7_A](https://chucs.github.io/ALDS1-7-A-Rooted-Trees/)
-- [AOJ ALDS1_6_C](https://chucs.github.io/ALDS1-6-C-Quick-Sort/)
-- [AOJ ALDS1_6_B](https://chucs.github.io/ALDS1-6-B-Partition/)
-- [AOJ ALDS1_6_A](https://chucs.github.io/ALDS1-6-A-Counting-Sort/)
-<!-- BLOG-POST-LIST:END -->
-
->>>>>>> master
 ---
+
 ### 🚀 Categories Online Judge
 - [Codeforces](https://chucs.github.io/categories/Codeforces/)
 - [AIZU](https://chucs.github.io/categories/AOJ/)
@@ -28,11 +17,13 @@
 - [For my solution on Online Judge. Maybe it's not best solution.](https://github.com/Daviswww/Submissions-by-UVa-etc)
 
 ---
+
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 ### 🗽 Connect with me:
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
