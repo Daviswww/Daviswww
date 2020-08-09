@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Davis - aka [早餐店公認帥哥][website]
+  ## I'm Davis - aka [Fatty Sloth][website]
 - 🔭 I’m currently working on a [Course][website]!
 - 🌱 I’m currently learning everything 😎
 - 🍺 Goals: Contribute more to Open Source projects
