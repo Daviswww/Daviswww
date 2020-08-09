@@ -1,10 +1,10 @@
-### Hi there, I'm Davis - aka [早餐店公認帥哥][website] 👋
+### Hi there 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [Online Judge][website]!
+## I'm Davis - aka [早餐店公認帥哥][website]
+- 🔭 I’m currently working on a [Course][website]!
 - 🌱 I’m currently learning everything 😎
 - 🍺 Goals: Contribute more to Open Source projects
-- 🗿 Fun fact: I love to travel and exercise 🚀
+- 🗿 Fun fact: I love to travel and exercise 
 
 ### Connect with me:
 
@@ -13,8 +13,12 @@
 
 <br />
 
+### 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
-### 📕 Categories Blog Posts
+### 🚀 Categories Online Judge
 
 - [Codeforces](https://chucs.github.io/categories/Codeforces/)
 - [AIZU](https://chucs.github.io/categories/AOJ/)
