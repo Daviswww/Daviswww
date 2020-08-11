@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there I'm Davis - aka [Fatty Sloth][website] 👋
 
-  ## I'm Davis - aka [Fatty Sloth][website]
 - 🔭 I’m currently working on a [Course][website]!
 - 🌱 I’m currently learning everything 😎
 - 🍺 Goals: Contribute more to Open Source projects
