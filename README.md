@@ -1,4 +1,4 @@
-## Hi there, I'm Davis - aka [Fatty Sloth][website] 👋
+## Hi there, I'm Davis 👋
 
 - 🔭 I’m currently working on a [Course][website]!
 - 🌱 I’m currently learning everything 😎
