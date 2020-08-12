@@ -1,6 +1,10 @@
 ## Hi there, I'm Davis 👋
 
-- 🔭 I’m currently working on a [Course][website]!
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+- 🗽 I’m currently working on a [Course][website]!
 - 🌱 I’m currently learning everything 😎
 - 🍺 Goals: Contribute more to Open Source projects
 - 🗿 Fun fact: I love to travel and exercise 
@@ -25,11 +29,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-### 🗽 Connect with me:
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://chucs.github.io/
 [instagram]: https://www.instagram.com/hdavisllll/
