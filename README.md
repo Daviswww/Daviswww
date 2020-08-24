@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AOJ ALDS1_8_C Binary Search Tree III](https://chucs.github.io/ALDS1-8-C-Binary-Search-Tree-III/)
+- [AOJ ALDS1_8_B Binary Search Tree II](https://chucs.github.io/ALDS1-8-B-Binary-Search-Tree-II/)
+- [AOJ ALDS1_8_A Binary Search Tree I](https://chucs.github.io/ALDS1-8-A-Binary-Search-Tree-I/)
 - [AOJ ALDS1_7_C - Tree Walk](https://chucs.github.io/ALDS1-7-C-Tree-Walk/)
 - [AOJ ALDS1_7_B - Binary Tree](https://chucs.github.io/ALDS1-7-B-Binary-Tree/)
-- [AOJ ALDS1_7_A - Rooted Trees](https://chucs.github.io/ALDS1-7-A-Rooted-Trees/)
-- [AOJ ALDS1_6_C - Quick Sort](https://chucs.github.io/ALDS1-6-C-Quick-Sort/)
-- [AOJ ALDS1_6_B - Partition](https://chucs.github.io/ALDS1-6-B-Partition/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
