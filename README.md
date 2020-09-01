@@ -1,5 +1,3 @@
-<iframe src="https://daviswww.github.io/Game-of-life/" width="510" height="245" align="center"></iframe>
-
 ## Hi there, I'm Davis 👋
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,3 +35,4 @@
 [instagram]: https://www.instagram.com/hdavisllll/
 [linkedin]: https://www.linkedin.com/in/hsing-wei-ho-4b8773191/
 [problem]: https://github.com/Daviswww/Submissions-by-UVa-etc
+
