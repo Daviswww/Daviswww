@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CodeForces 1418B](https://chucs.github.io/Negative-Prefixes/)
+- [CodeForces 1418A](https://chucs.github.io/Buying-Torches/)
 - [AOJ ALDS1_8_C - Binary Search Tree III](https://chucs.github.io/ALDS1-8-C-Binary-Search-Tree-III/)
 - [AOJ ALDS1_8_B - Binary Search Tree II](https://chucs.github.io/ALDS1-8-B-Binary-Search-Tree-II/)
 - [AOJ ALDS1_8_A - Binary Search Tree I](https://chucs.github.io/ALDS1-8-A-Binary-Search-Tree-I/)
-- [AOJ ALDS1_7_C - Tree Walk](https://chucs.github.io/ALDS1-7-C-Tree-Walk/)
-- [AOJ ALDS1_7_B - Binary Tree](https://chucs.github.io/ALDS1-7-B-Binary-Tree/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
