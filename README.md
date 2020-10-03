@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Codeforces 1426D](https://chucs.github.io/Non-zero-Segments/)
+- [Codeforces 1426C](https://chucs.github.io/Increase-and-Copy/)
+- [Codeforces 1426B](https://chucs.github.io/Symmetric-Matrix/)
+- [Codeforces 1426A](https://chucs.github.io/Floor-Number/)
 - [CodeForces 1418B](https://chucs.github.io/Negative-Prefixes/)
-- [CodeForces 1418A](https://chucs.github.io/Buying-Torches/)
-- [AOJ ALDS1_8_C - Binary Search Tree III](https://chucs.github.io/ALDS1-8-C-Binary-Search-Tree-III/)
-- [AOJ ALDS1_8_B - Binary Search Tree II](https://chucs.github.io/ALDS1-8-B-Binary-Search-Tree-II/)
-- [AOJ ALDS1_8_A - Binary Search Tree I](https://chucs.github.io/ALDS1-8-A-Binary-Search-Tree-I/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
