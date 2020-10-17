@@ -13,7 +13,7 @@
 ---
 
 ### 📕 Latest Blog posts
-- [For my solution on Online Judge. Maybe it's not best solution.](https://github.com/Daviswww/Submissions-by-UVa-etc)
+[For my solution on Online Judge. Maybe it's not best solution.](https://github.com/Daviswww/Submissions-by-UVa-etc)
 <!-- BLOG-POST-LIST:START -->
 - [Codeforces 1426D](https://chucs.github.io/Non-zero-Segments/)
 - [Codeforces 1426C](https://chucs.github.io/Increase-and-Copy/)
