@@ -14,11 +14,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Codeforces 1426D](https://chucs.github.io/Non-zero-Segments/)
-- [Codeforces 1426C](https://chucs.github.io/Increase-and-Copy/)
-- [Codeforces 1426B](https://chucs.github.io/Symmetric-Matrix/)
-- [Codeforces 1426A](https://chucs.github.io/Floor-Number/)
-- [CodeForces 1418B](https://chucs.github.io/Negative-Prefixes/)
+- [Rust-006 Types](https://chucs.github.io/rust-006-types/)
+- [Rust 005 Variable](https://chucs.github.io/rust-005-variable/)
+- [Rust 004 Format](https://chucs.github.io/rust-004-format/)
+- [Rust 003 Function](https://chucs.github.io/rust-003-function/)
+- [Rust 002 Project](https://chucs.github.io/rust-002-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
