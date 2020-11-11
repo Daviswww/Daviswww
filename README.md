@@ -14,11 +14,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust-006 Types](https://chucs.github.io/rust-006-types/)
+- [Rust 007 Struct](https://chucs.github.io/rust-007-struct/)
+- [Rust 006 Types](https://chucs.github.io/rust-006-types/)
 - [Rust 005 Variable](https://chucs.github.io/rust-005-variable/)
 - [Rust 004 Format](https://chucs.github.io/rust-004-format/)
 - [Rust 003 Function](https://chucs.github.io/rust-003-function/)
-- [Rust 002 Project](https://chucs.github.io/rust-002-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
