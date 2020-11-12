@@ -14,11 +14,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust 007 Struct](https://chucs.github.io/rust-007-struct/)
+- [Rust 010 Match](https://chucs.github.io/rust-010-match/)
+- [Rust 009 Loop](https://chucs.github.io/rust-009-loop/)
+- [Rust 008 If Else](https://chucs.github.io/rust-008-if-else/)
+- [Rust 007 Struct and Methods](https://chucs.github.io/rust-007-struct/)
 - [Rust 006 Types](https://chucs.github.io/rust-006-types/)
-- [Rust 005 Variable](https://chucs.github.io/rust-005-variable/)
-- [Rust 004 Format](https://chucs.github.io/rust-004-format/)
-- [Rust 003 Function](https://chucs.github.io/rust-003-function/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
