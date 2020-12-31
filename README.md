@@ -14,11 +14,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [rust-011-eof-input](https://chucs.github.io/rust-012-eof-input/)
+- [Rust 011 Input](https://chucs.github.io/rust-011-input/)
 - [Rust 010 Match](https://chucs.github.io/rust-010-match/)
 - [Rust 009 Loop](https://chucs.github.io/rust-009-loop/)
 - [Rust 008 If Else](https://chucs.github.io/rust-008-if-else/)
-- [Rust 007 Struct and Methods](https://chucs.github.io/rust-007-struct/)
-- [Rust 006 Types](https://chucs.github.io/rust-006-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
