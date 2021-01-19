@@ -14,11 +14,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust 013 Enums](https://chucs.github.io/rust-013-enums/)
+- [Rust 013 Options](https://chucs.github.io/rust-014-options/)
+- [Flutter 001 Install](https://chucs.github.io/flutter-001-install/)
 - [Rust 012 EOF input](https://chucs.github.io/rust-012-eof-input/)
 - [Rust 011 Input](https://chucs.github.io/rust-011-input/)
-- [Rust 010 Match](https://chucs.github.io/rust-010-match/)
-- [Rust 009 Loop](https://chucs.github.io/rust-009-loop/)
-- [Rust 008 If Else](https://chucs.github.io/rust-008-if-else/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
