@@ -14,11 +14,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust 013 Enums](https://chucs.github.io/rust-013-enums/)
-- [Rust 013 Options](https://chucs.github.io/rust-014-options/)
-- [Flutter 001 Install](https://chucs.github.io/flutter-001-install/)
-- [Rust 012 EOF input](https://chucs.github.io/rust-012-eof-input/)
-- [Rust 011 Input](https://chucs.github.io/rust-011-input/)
+- [Swift 019 Polymorphism and Typecasting](https://chucs.github.io/swift-019-polymorphism-and-typecasting/)
+- [Swift 018 Access Control](https://chucs.github.io/swift-018-access-control/)
+- [Swift 017 Static Properties and Methods](https://chucs.github.io/swift-017-static-properties-and-methods/)
+- [Swift 016 Properties](https://chucs.github.io/swift-016-properties/)
+- [Swift 015 Classes](https://chucs.github.io/swift-015-classes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
