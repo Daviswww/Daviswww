@@ -14,11 +14,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2021 iThome 鐵人賽 - 30天 Flutter 日常](https://chucs.github.io/2021-iThome-Flutter/)
 - [Swift 019 Polymorphism and Typecasting](https://chucs.github.io/swift-019-polymorphism-and-typecasting/)
 - [Swift 018 Access Control](https://chucs.github.io/swift-018-access-control/)
 - [Swift 017 Static Properties and Methods](https://chucs.github.io/swift-017-static-properties-and-methods/)
 - [Swift 016 Properties](https://chucs.github.io/swift-016-properties/)
-- [Swift 015 Classes](https://chucs.github.io/swift-015-classes/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
