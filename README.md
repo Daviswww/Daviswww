@@ -4,13 +4,14 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviswww&layout=compact&theme=radical&hide=javascript,html&hide_title=true" />
+</a>
 
 - 🗽 I’m currently working on a [Course][website]!
 - 🌱 I’m currently learning everything 😎
 - 🍺 Goals: Contribute more to Open Source projects
 - 🗿 Fun fact: I love to travel and exercise 
-
----
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
