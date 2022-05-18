@@ -1,9 +1,5 @@
 ## Hi there, I'm Davis 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviswww&layout=compact&theme=radical&hide=javascript,html&hide_title=true" />
-</a>
-
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Apollo Server V3 - GraphQL + Node.js &lpar;part 1&rpar;](https://chucs.github.io/apollo-server-v3-001/)
