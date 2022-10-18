@@ -9,12 +9,8 @@
 - [Flutter 027 - Infrastructure Click Game &lpar;part11&rpar;](https://chucs.github.io/flutter-027-infrastructure-click-game/)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
 ### 🍥 Stack Overflowstats
-
 [![davis's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=13184360&theme=solarized-light)](https://stackoverflow.com/users/13184360/daviswww)
-
 
 [website]: https://chucs.github.io/
 [linkedin]: https://www.linkedin.com/in/hsing-wei-ho-4b8773191/
