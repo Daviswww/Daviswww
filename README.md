@@ -11,7 +11,7 @@
 
 <br>
 
-### Stack Overflowstats
+### 🍥 Stack Overflowstats
 
 [![davis's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=13184360&theme=solarized-light)](https://stackoverflow.com/users/13184360/daviswww)
 
