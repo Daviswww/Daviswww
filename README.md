@@ -18,6 +18,9 @@
 
 
 <br>
+### Stack Overflow and GitHub stats
+
+[![davis's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=13184360&theme=solarized-light)](https://stackoverflow.com/users/13184360/daviswww)
 
 
 [website]: https://chucs.github.io/
