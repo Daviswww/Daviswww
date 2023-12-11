@@ -10,9 +10,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🍥 Stack Overflowstats
-<p align="center" float="middle">
 [![davis's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=13184360&theme=solarized-light)](https://stackoverflow.com/users/13184360/daviswww)
-</p>
+
 [website]: https://chucs.github.io/
 [linkedin]: https://www.linkedin.com/in/hsing-wei-ho-4b8773191/
 [problem]: https://github.com/Daviswww/Submissions-by-UVa-etc
