@@ -1,5 +1,7 @@
 ## Hi there, I'm Davis 👋
-
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Apollo Server V3 - GraphQL + Node.js &lpar;part 1&rpar;](https://chucs.github.io/apollo-server-v3-001/)
@@ -17,7 +19,6 @@
 [problem]: https://github.com/Daviswww/Submissions-by-UVa-etc
 
 ---
-[For my solution on Online Judge. Maybe it's not best solution.](https://github.com/Daviswww/Submissions-by-UVa-etc)
+[For my solution on Online Judge. Maybe it's not the best solution.](https://github.com/Daviswww/Submissions-by-UVa-etc)
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
