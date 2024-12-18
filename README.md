@@ -1,6 +1,7 @@
 ## Hi there, I'm Davis 👋
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" width="22px" src="https://www.dogugu.com/favicon.png" />][dogugu]
 
 <br>
@@ -14,13 +15,11 @@
 - [Flutter 027 - Infrastructure Click Game &lpar;part11&rpar;](https://chucs.github.io/flutter-027-infrastructure-click-game/)
 <!-- BLOG-POST-LIST:END -->
 
-### 🍥 Stack Overflow stats
-[![davis's Stack Overflow profile](https://stackoverflow-card.vercel.app/?userID=13184360&theme=solarized-light)](https://stackoverflow.com/users/13184360/daviswww)
-
 [website]: https://chucs.github.io/
 [linkedin]: https://www.linkedin.com/in/daviswww/
 [dogugu]: https://www.dogugu.com/
 [problem]: https://github.com/Daviswww/Submissions-by-UVa-etc
+[stackoverflow]: https://stackoverflow.com/users/13184360/daviswww
 
 ---
 [For my solution on Online Judge. Maybe it's not the best solution.](https://github.com/Daviswww/Submissions-by-UVa-etc)
